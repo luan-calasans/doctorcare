@@ -4,15 +4,16 @@
   <p><strong>DoctorCare</strong> is a project created at the <strong>Rocketseat NLW Return</strong> event</p>
 </div>
 
-<h2>⚡ Technologies</h2>
+<h2>🚀 Technologies</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li><a href="https://scrollrevealjs.org/">ScrollReveal</a></li>
 </ul>
 
 <h2>🎨 Layout</h2>
-<p>You can find the application UI design here: https://www.figma.com/community/file/1102912263666619803/DoctorCare</p>
+<p>You can view the project layout through <a href="https://www.figma.com/community/file/1102912263666619803">this link</a>. You must have a <a href="https://figma.com/">Figma</a> account to access it.</p>
 
 <h2>✔ Finished project</h2>
 <p>You can test the site through this link: https://luan-calasans.github.io/doctorcare/</p>
