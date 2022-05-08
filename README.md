@@ -6,8 +6,8 @@
 
 <h2>🚀 Technologies</h2>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
+  <li>HTML</li>
+  <li>CSS</li>
   <li>JavaScript</li>
   <li><a href="https://scrollrevealjs.org/">ScrollReveal</a></li>
 </ul>
