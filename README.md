@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/69552520/167264379-51bf3bc0-0c3c-46f9-8fb8-db8e6b00888b.png" width="600px">
+  <img src="https://user-images.githubusercontent.com/69552520/167322447-d3c55d3d-a1e9-41eb-aab1-7eeab7b931f7.png" width="600px">
   <h1>DoctorCare</h1>
   <p><strong>DoctorCare</strong> is a project created at the <strong>Rocketseat NLW Return</strong> event</p>
 </div>
